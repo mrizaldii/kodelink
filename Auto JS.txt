@@ -6,5 +6,5 @@ var setting = {
 };
 //]]>
 </script>
-<script src="https://cdn.rawgit.com/irfaanprogrammer/safeplatinum/master/Auto.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/irfaanprogrammer/safeplatinum@master/Auto.js"></script>
 <script src="https://www.blogger.com/feeds/5911586401633596264/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl"></script>
